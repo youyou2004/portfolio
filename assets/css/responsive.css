@@ -1,0 +1,349 @@
+/*******************************************************
+    Template Name    : Omni - IT Solutions & Business Services Landing Page Template
+    Author           : Cute Themes
+    Version          : 1.0
+    Created          : 2023
+    File Description : Main Reaposive file of the template
+********************************************************/
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+	.home-area .home-content h1 {
+		font-size: 35px;
+	}
+	.about-main-banner img {
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+	.navbar-nav {
+		padding: 20px 20px;
+		border-radius: 3px;
+		height: 250px;
+		overflow-y: scroll;
+		margin-top: 30px;
+		background-color: #f5f5f5;
+	}
+	.navbar-b.navbar-trans .nav-link, .navbar-b.navbar-reduce .nav-link {
+		padding: 12px 20px;
+	}
+	.navbar-area.is-sticky .navbar-nav .nav-item a:hover,
+	.navbar-area.is-sticky .navbar-nav .nav-item a:focus,
+	.navbar-area.is-sticky .navbar-nav .nav-item a.active {
+		color: #3069b3;
+		background: #efefef;
+		border-radius: 3px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		padding-right: 0;
+	}
+	.home-area .home-content {
+		margin-bottom: 35px;
+		text-align: center;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+	}
+	.home-area {
+		padding-top: 170px;
+		padding-bottom: 40px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 35px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: 250px;
+		overflow-y: scroll;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 160px;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.partner-single-item {
+		padding: 20px 15px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 35px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+
+@media only screen and (max-width: 479px) {
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 30px;
+		margin-bottom: 18px;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	.about-content h2 {
+		font-size: 30px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.hire-content h5 {
+		font-size: 20px;
+	}
+	.hire-content h2 {
+		font-size: 40px;
+	}
+	.partner-single-item {
+		padding: 40px 65px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 0px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: auto;
+		overflow-y: scroll;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 30px;
+		margin-bottom: 18px;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	.about-content h2 {
+		font-size: 27px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.hire-content h5 {
+		font-size: 18px;
+	}
+	.hire-content h2 {
+		font-size: 33px;
+	}
+	.partner-single-item {
+		padding: 40px 65px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 0px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+	
+}
