@@ -12,6 +12,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 	<link rel="icon" type="image/png" href="D:\portfolio\image\a.2.png">
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 	<link href="assets/css/et-line.css" rel="stylesheet">
 	<link href="assets/css/magnific-popup.css" rel="stylesheet">
@@ -73,7 +74,8 @@
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<div class="home-img">
-						<img src="assets/img/home-font.png" alt="home image">
+<img src="assets/img/home-font.png" alt="home image">
+
 					</div>
 				</div>
 			</div>
@@ -95,7 +97,7 @@
 						</div>
 						<div class="mini-feature-info">
 							<h6>Réseau</h6>
-							<p>Sur ces deux années j'ai pu acquérir diverses compétences tel que:</p>
+							<p>Sur ces deux années j'ai pu acquérir diverses compétences telles que:</p>
 							<br>
 								<p>-Configuration de routeur; de switch</p>
 								<p>-Installation et configuration d'un hyperviseur</p>
@@ -111,7 +113,7 @@
 						</div>
 						<div class="mini-feature-info">
 							<h6>Cybersécurité</h6>
-							<p>En terme de cybersécurité j'ai pu apprendre différentes choses :</p>
+							<p>En termes de cybersécurité j'ai pu apprendre différentes choses :</p>
 							<br>
 							<p>- Conformité au RGPD</p>
 							<p>- Maintenance du parc informatique</p>
@@ -161,7 +163,7 @@
 							<img class="animation-bounce" src="assets/img/about-1.jpg" alt="About image">
 						</div>
 						<div class="about-main-banner">
-<img class="animation-bounce" src="assets/img/about.jpg" alt="About image" width="300" height="150">
+							<img class="animation-bounce" src="assets/img/about.jpg" alt="About image">
 
 						</div>
 						<div class="about-banner-2">
@@ -201,12 +203,12 @@
 				<div class="col-md-12">
 					<div class="section-title">
 						<h2>Veille Technologique</h2>
-						<p>Au cours de cette deuxième année de formation on a du réaliser une veille technologique sur un sujet qu'on aura choisi
+						<p>Au cours de cette deuxième année de formation, on a dû réaliser une veille technologique sur un sujet qu'on aura choisi
 							au préalable.</p>
-						<p>Le sujet que j'ai choisi pour cette veille est l'IA dans le phinshing.</p>
+						<p>Le sujet que j'ai choisi pour cette veille est l'IA dans le phishing.</p>
 						<p>Ci-dessous vous trouverez le lien de téléchargement de ma veille.</p>
 						<br>
-						<a href="veille phish.pptx" download="Veille phishing" class="mon-bouton">Veille technologique</a></div>
+						<a href="L'ia dans le phinshing .pptx" download="Veille phishing" class="mon-bouton">Veille technologique</a></div>
 					</div>
 				</div>
 										
@@ -235,8 +237,8 @@
 							<div class="testi-content-inner">
 								<div class="testimonial-content">
 									<p>Gestion du parc : sauvegarde</p>
-									<p>On a dû éffectuer la sauvegarde de plusuieurs fichiers avec VEEAM. 
-										Et tout ça devait être stocker sur notre TrueNAS.
+									<p>On a dû effectuer la sauvegarde de plusieurs fichiers avec VEEAM. 
+										Et tout ça devait être stocké sur notre TrueNAS.
 									</p>
 								</div>
 								<div class="testimonial-bio">
@@ -253,8 +255,8 @@
 							<div class="testi-content-inner">
 								<div class="testimonial-content">
 									<p>Gestion du parc : sauvegarde</p>
-									<p>On a dû éffectuer la sauvegarde de plusuieurs fichiers avec VEEAM. 
-										Et tout ça devait être stocker sur notre TrueNAS.
+									<p>On a dû effectuer la sauvegarde de plusieurs fichiers avec VEEAM. 
+										Et tout ça devait être stocké sur notre TrueNAS.
 									</p>
 								</div>
 								<div class="testimonial-bio">
@@ -289,8 +291,8 @@
 							<div class="testi-content-inner">
 								<div class="testimonial-content">
 									<p>Projet Ma Banque</p>
-									<p>Durant la première année, j'ai crée l'infrastructure d'une banque,
-										passant par le site vitrine, la base de donnée ou encore le réseaux de la banque.
+									<p>Durant la première année, j'ai créé l'infrastructure d'une banque,
+										passant par le site vitrine, la base de données ou encore le réseau de la banque.
 									</p>
 								</div>
 								<div class="testimonial-bio">
@@ -317,7 +319,7 @@
 					<div class="section-title">
 						<h5 class="small-title">Stages</h5>
 						<br>
-						<h2>1ère Année</h2>
+						<h2>1ère Année 2022-2023</h2>
 						<br>
 						<a href="rapport de stage.docx" download="rapport de stage" class="mon-bouton">Stage 1 : Les chassagnes</a>
 					</div>
@@ -326,7 +328,7 @@
 						</div>
 					<br>
 					<div class="section-title">
-						<h2>2ème Année</h2>
+						<h2>2ème Année 2023-2024</h2>
 						<a href="Rapport de stage 2 années.docx" download="Rapport de stage 2" class="mon-bouton">Stage 2 : E-secure</a>
 					</div>
 					<div style="text-align: center;">
@@ -334,7 +336,7 @@
 					</div>
 					<br>
 					<div class="section-title">
-						<h2>2ème Année bis</h2>
+						<h2>2ème Année 2024-2025</h2>
 						<a href="Rapport de stage 2 années 2025.docx" download="rapport_stage_3" class="mon-bouton">Stage 3 : Liberty phone</a>
 					</div>
 					<div style="text-align: center;">
@@ -356,8 +358,8 @@
 				</div>
 				<div class="col-lg-12 col-md-12">
 					<div class="footer-content text-center">
-						<p> Le BTS SIO quelques caractéristiques :</p>
-						<p>Option SLAM - developpement</p>
+						<p> Le BTS SIO présente quelques caractéristiques :</p>
+						<p>Option SLAM - développement</p>
 						<p>Option SISR - réseau</p>
 						<p>Routage ; Switch; Serveur</p>
 						<p>IPv4 ; IPv6</p>
@@ -399,11 +401,9 @@
 						<h2>Tableau de Synthèse</h2>
 					</div>
 <div style="text-align: center;">
-    <a href="version final tableau synthesde copi bis.xlsx" download="Tableau de synthèse v1.xlsx" class="mon-bouton">Télécharger mon tableau de synthèse de 2ème années</a>
+    <a href="version final tableau synthesde copi bis.xlsx" download="Tableau de synthèse v1.xlsx" class="mon-bouton">Télécharger mon tableau de synthèse</a>
 </div>
-<div style="text-align: center;">
-    <a href="version final tableau synthes_2eme_année_bis .xlsx" download="Tableau de synthèse v1.xlsx" class="mon-bouton">Télécharger mon tableau de synthèse de 2ème années Bis</a>
-</div>
+
 
 				</div>
 			</div>
@@ -415,9 +415,9 @@
 			<div class="hire-content">
 				<h5>Contact</h5>
 				<ul class="footer-social-icon">
-					<li><a href="www.linkedin.com/in/ayoub-el-mahi-821472274"><i class="fa fa-linkedin"></i></a>
+					<li><a href="https://www.linkedin.com/in/ayoub-el-mahi-821472274"><i class="fa-brands fa-linkedin-in"></i></a>
 					</li>
-					<li><a href="https://www.instagram.com/ayou.el04/"><i class="fa fa-instagram"></i></a>
+					<li><a href="https://www.instagram.com/ayou.el04/"><i class="fa-brands fa-instagram"></i></a>
 					</li>
 				</ul>
 				<li><h6 style="color: white;">aelmahi2004@gmail.com</h6></li>
@@ -435,7 +435,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="footer-about pr-50">	
 							<a class="footer-logo" href="#">
-								<img src="D:\Portfolio\image\a.png" class="white-logo" alt="logo">
+								<span style="color: darkgray;">Ayoub El Mahi</span>
 							</a>
 							<p></p>
 						</div>
@@ -448,11 +448,11 @@
 					</div>
 					<div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
 						<div class="footer-list">
-							<h5 class="title">Quick Link</h5>
+							<h5 class="title">Raccourcie</h5>
 							<ul>
-								<li><a href="#home">Home</a>
+								<li><a href="#home">Accueil</a>
 								</li>
-								<li><a href="#about">About me</a>
+								<li><a href="#about">A propos de moi</a>
 								</li>
 								<li><a href="#competences">Competences</a>
 								</li>
@@ -487,17 +487,6 @@
 	<script src="assets/js/plugins.js"></script>
 	<script src="assets/js/wow.min.js"></script>
 	
-	<script src="assets/js/main.js"></script>
-</body>
-
-</html>
-			
-					
-	
-	<script src="assets/js/jquery-3.5.1.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/plugins.js"></script>
-	<script src="assets/js/wow.min.js"></script>
 	<script src="assets/js/main.js"></script>
 </body>
 
