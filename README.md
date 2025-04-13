@@ -264,7 +264,42 @@
 										<img src="image\veamNas.png" alt="">
 									</div>
 									<div class="bio-info">
-										<h3 class="name">Ayoub El mahi et Julien <span> 2ème année</span>
+										<h3 class="name">Ayoub El mahi et Julien Champemont <span> 2ème année</span>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="single-testimonial">
+							<div class="testi-content-inner">
+								<div class="testimonial-content">
+									<p>Stratégie de mise à jour : WSUS</p>
+									<p>J'ai du mettre en place un serveur de mise à jour WSUS. 
+										Pour permettre au machine de faire leur mise à jour automatiquement.
+									</p>
+								</div>
+								<div class="testimonial-bio">
+									<div class="avatar">
+										<img src="image\veamNas.png" alt="">
+									</div>
+									<div class="bio-info">
+										<h3 class="name">Ayoub El mahi <span> 2ème année</span>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="single-testimonial">
+							<div class="testi-content-inner">
+								<div class="testimonial-content">
+									<p>Serveur de déploiment</p>
+									<p>J'ai du mettre en place un serveur de déploiment. Pour permettre à une nouvelle machine d'avoir les même paramètres que les autres machines.
+									</p>
+								</div>
+								<div class="testimonial-bio">
+									<div class="avatar">
+										<img src="image\veamNas.png" alt="">
+									</div>
+									<div class="bio-info">
+										<h3 class="name">Ayoub El mahi <span> 2ème année</span>
 									</div>
 								</div>
 							</div>
@@ -282,7 +317,7 @@
 										<img src="image\veamNas.png" alt="">
 									</div>
 									<div class="bio-info">
-										<h3 class="name">Ayoub El mahi et Julien <span> 2ème année bis</span>
+										<h3 class="name">Ayoub El mahi et Julien Champemont <span> 2ème année bis</span>
 									</div>
 								</div>
 							</div>
