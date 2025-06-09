@@ -438,6 +438,34 @@
 <div style="text-align: center;">
     <a href="version final tableau synthesde copi bis.xlsx" download="Tableau de synthèse v1.xlsx" class="mon-bouton">Télécharger mon tableau de synthèse</a>
 </div>
+<section id="doc" class="blog-area bg-gray section-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12">
+				<div class="section-title">
+					<h5>Documents</h5>
+					<h2>Documentation technique</h2>
+				</div>
+<div style="text-align: center;">
+	<a href="Guide-complet-Deploiement-de-TrueNAS-et-Duplicati-sur-Windows (1).pdf" download="fiche sauvegarde" class="mon-bouton">Télécharger fiche sauvegarde</a>
+</div>
+<div style="text-align: center;">
+	<a href="Guide-complet-pour-linstallation-dun-serveur-de-deploiement-Windows-WDS-et-la-configuration-dune-ima (1) (1) (1).pdf" download="fiche WDS" class="mon-bouton">Télécharger fiche WDS</a>
+</div>
+<div style="text-align: center;">
+	<a href="Presentation (1).pdf" download="fiche WSUS" class="mon-bouton">Télécharger fiche WSUS</a>
+</div>
+<div style="text-align: center;">
+	<a href="réalisation professionnel deploiement_2025.docx" download="fiche WDS" class="mon-bouton">Télécharger la réalisation WDS</a>
+</div>
+<div style="text-align: center;">
+	<a href="réalisation professionnel WSUS.docx" download="fiche WSUS" class="mon-bouton">Télécharger la réalisation WSUS</a>
+</div>
+<div style="text-align: center;">
+	<a href="https://documentation-glpi.netlify.app/" target="_blank" class="mon-bouton">Accéder à la documentation GLPI</a>
+</div>
+
+
 
 
 				</div>
